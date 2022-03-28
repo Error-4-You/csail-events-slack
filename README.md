@@ -29,6 +29,7 @@
 
 ## ABOUT:
 
+Simple Slack webhook for posting notifications about upcoming seminars
 
 ## LICENSE:
 This software is free to distribute, modify and use with the condition that credit is provided to the creator (Error-4-You) and is not for commercial use.
